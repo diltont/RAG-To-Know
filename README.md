@@ -28,6 +28,6 @@ Feel free to contact me if you want to contribute further to the repository!
 
 [![Subscribe to Non-Brand Data](Images/Subscribe_button.svg)](https://www.nb-data.com/welcome)
   
-***Join with 6000+ Future Data leaders for free AI and Data Science tutorial***
+***Join with 9300+ Future Data leaders for free AI and Data Science tutorial***
 </div>
 
